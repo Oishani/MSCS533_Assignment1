@@ -112,6 +112,31 @@ Run the app on a simulator:
 flutter run -d "iPhone 16 Pro"
 ```
 
+## Demo
+
+<video src="demo/demo.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
+
+## Screenshots
+
+![From Dropdown](demo/from-dropdown.png)
+*From unit selection dropdown*
+
+![Imperial to Metric](demo/imperial-to-metric.png)
+*Imperial to metric conversion*
+
+![Metric to Imperial](demo/metric-to-imperial.png)
+*Metric to imperial conversion*
+
+![Negative Number Validation](demo/negative-num-validation.png)
+*Validation for negative number input*
+
+![Number Validation](demo/number-validation.png)
+*Validation for non-numeric input*
+
+![Unit Matching](demo/unit-matching.png)
+*Unit type matching enforcement*
 
 ## Notes
 - The app supports conversion between a wide range of metric and imperial units for both distance and weight.
